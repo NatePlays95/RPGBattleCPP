@@ -1,0 +1,1 @@
+first version of the program, only lets you battle once per execution.
