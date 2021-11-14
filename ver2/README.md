@@ -1,4 +1,4 @@
-#*second version!*
+# second version!
 
 added new D&D-like dice rolls and character stats (refered as params)
 
